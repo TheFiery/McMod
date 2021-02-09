@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "modmacdo:blocks/potatoplant",
+    "particle": "modmacdo:blocks/potatoplant"
+  }
+}

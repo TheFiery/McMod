@@ -1,0 +1,24 @@
+{
+  "group": "modmacdo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modmacdo:cheesehot"
+    },
+    "1": {
+      "item": "modmacdo:cheesehot"
+    },
+    "2": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "modmacdo:cheesebucket",
+    "count": 1
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Tablecraft",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tablecraft"
+    },
+    {
+      "name": "TablecraftMiseAJourDuTick",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tablecraft_mise_a_jour_du_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tomate",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomate"
+    },
+    {
+      "name": "Tomatenonfraiche",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomatenonfraiche"
+    },
+    {
+      "name": "TomatenonfraicheQuandLaNourritureEstMangee",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomatenonfraiche_quand_la_nourriture_est_mangee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Flour",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flour"
+    },
+    {
+      "name": "Butter",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butter"
+    },
+    {
+      "name": "Grainetomate",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grainetomate"
+    },
+    {
+      "name": "Tomateplante",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomateplante"
+    },
+    {
+      "name": "Guicraaft",
+      "type": "gui",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guicraaft"
+    },
+    {
+      "name": "Happymeal",
+      "type": "painting",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "happymeal"
+    },
+    {
+      "name": "TomateplanteMiseAJourDuTick",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomateplante_mise_a_jour_du_tick",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Tomate1",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomate_1"
+    },
+    {
+      "name": "Saladeplante",
+      "type": "plant",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saladeplante"
+    },
+    {
+      "name": "Cheese",
+      "type": "food",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese"
+    },
+    {
+      "name": "Roundcheese",
+      "type": "food",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roundcheese"
+    },
+    {
+      "name": "Cheesehot",
+      "type": "food",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheesehot"
+    },
+    {
+      "name": "Cheese1",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese_1"
+    },
+    {
+      "name": "Cheesehot1",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheesehot_1"
+    },
+    {
+      "name": "Cheesebucket",
+      "type": "food",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheesebucket"
+    },
+    {
+      "name": "Cheese2",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese_2"
+    },
+    {
+      "name": "Salade",
+      "type": "food",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salade"
+    },
+    {
+      "name": "Salade1",
+      "type": "food",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salade_1"
+    },
+    {
+      "name": "Salade2",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salade_2"
+    },
+    {
+      "name": "Salade3",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salade_3"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.modmacdo.cheesebucket": "seau de fromage",
+      "block.modmacdo.tablecraft": "Table craft",
+      "item.modmacdo.grainetomate": "Graine de tomate",
+      "block.modmacdo.saladeplante": "Salade ",
+      "item.modmacdo.cheesehot": "fromage fondu",
+      "block.modmacdo.tomateplante": "Tomate ",
+      "item.modmacdo.cheese": "fromage",
+      "item.modmacdo.salade_1": "Salade",
+      "item.modmacdo.tomatenonfraiche": "Tomate pas fraiche",
+      "item.modmacdo.salade": "Salade complete",
+      "item.modmacdo.butter": "Beurre",
+      "item.modmacdo.tomate": "Tomate",
+      "item.modmacdo.flour": "farine",
+      "item.modmacdo.roundcheese": "meule de fromage"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "modmacdo",
+    "modName": "Macdonald",
+    "version": "1.0.0",
+    "author": "TheFiery_, ",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "mcd_happymealsmilelogo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "secret",
+    "modElementsPackage": "stealth.modmacdo",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

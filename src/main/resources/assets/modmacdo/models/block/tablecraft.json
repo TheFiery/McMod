@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modmacdo:blocks/tablecraft",
+    "up": "modmacdo:blocks/tablecraft",
+    "north": "modmacdo:blocks/tablecraft",
+    "east": "modmacdo:blocks/tablecraft",
+    "south": "modmacdo:blocks/tablecraft",
+    "west": "modmacdo:blocks/tablecraft",
+    "particle": "modmacdo:blocks/tablecraft"
+  }
+}

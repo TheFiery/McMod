@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modmacdo:block/tablecraft"
+    },
+    "facing=east": {
+      "model": "modmacdo:block/tablecraft",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modmacdo:block/tablecraft",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modmacdo:block/tablecraft",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="modmacdo"
+version="1.0.0"
+displayName="Macdonald"
+credits="secret"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="TheFiery_, "
+
+[[dependencies.modmacdo]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

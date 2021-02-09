@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "modmacdo:blocks/saladplant",
+    "particle": "modmacdo:blocks/saladplant"
+  }
+}

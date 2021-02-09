@@ -1,0 +1,16 @@
+{
+  "group": "modmacdo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "modmacdo:salade"
+    }
+  },
+  "result": {
+    "item": "modmacdo:salade_1",
+    "count": 4
+  }
+}

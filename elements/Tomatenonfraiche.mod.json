@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "tomato",
+    "customModelName": "Normal",
+    "name": "Tomate pas fraiche",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "A NE PAS MANGER !"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": -2,
+    "saturation": 0.7,
+    "eatingSpeed": 41,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

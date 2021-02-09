@@ -1,0 +1,16 @@
+{
+  "group": "modmacdo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "modmacdo:tomate"
+    }
+  },
+  "result": {
+    "item": "modmacdo:grainetomate",
+    "count": 1
+  }
+}
